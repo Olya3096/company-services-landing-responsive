@@ -252,22 +252,6 @@ body {
   gap: 18px;
 }
 
-@media (min-width: 320px) {
-  .grid-item {
-    width: 338px;
-    height: 338px;
-  }
-
-  .circle {
-    width: 38px;
-    height: 38px;
-  }
-
-  .main-title {
-    width: 350px;
-  }
-}
-
 @media (min-width: 576px) {
   .main-title {
     width: 400px;
