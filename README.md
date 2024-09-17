@@ -1,3 +1,1 @@
-# new-project
-
-https://respprjct.netlify.app/
+https://company-services-landing-responsive.netlify.app/
